@@ -1,6 +1,6 @@
 <h2> Olá, sou o Luan ! </h2>
 <h2>Cursando téc. informática - SATC</h2>
-<h2>17 anos</h2>
+<h2>18 anos</h2>
 <h2> Criciúma-SC</h2>
 
 <!--
