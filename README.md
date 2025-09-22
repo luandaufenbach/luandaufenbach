@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tenho 19 anos e sou formado em Técnico de Informática pela SATC. Atualmente, estou cursando Ciência da Computação na UNESC e moro em Criciúma - SC. Sempre buscando aprender novas habilidades e enfrentar novos desafios.</p>
+<p align="left">Tenho 19 anos e sou formado em Técnico de Informática pela SATC. Atualmente, estou cursando Ciência da Computação na UNESC e moro em Criciúma - SC</p>
 
 ###
 
